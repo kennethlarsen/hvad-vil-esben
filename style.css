@@ -1,0 +1,17 @@
+body {
+  background-color: #16a085;
+}
+.input-group-addon {
+  background-color: #658EC6;
+  border-color: #658EC6;
+  color: #FFFFFF;
+}
+.container {
+  margin-top: 5%;
+}
+.svar img {
+  width: 100%;
+}
+.footer a {
+  color: #FFFFFF;
+}
