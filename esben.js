@@ -1,7 +1,5 @@
 function esben() {
-  const esbener = ['img/esben1.jpg', 'img/esben2.jpg'];
-  const esben = esbener[Math.floor(Math.random()*esbener.length)];
-  $('.svar').html(`<img src="${esben}"/>`);
+  $('.svar').html('<img src="img/esben2.jpg"/>');
 }
 
 $(".input-group").keyup(function(event){
